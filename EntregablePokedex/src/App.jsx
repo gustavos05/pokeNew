@@ -1,6 +1,6 @@
 import "./index.css";
 import {HashRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import Dashboard from "./Pages/Dashboard";
 import ProtectedRoutes from "./Pages/ProtectedRoutes";
 import PokemonDetail from "./Pages/PokemonDetail";
