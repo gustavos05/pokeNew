@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from 'react'
 import axios from 'axios'
-import PokemonCard from '../components/PokemonCard'
+import PokemonCard from '../Components/PokemonCard'
 
 const Dashboard = () => {
 
